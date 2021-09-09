@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Github and Pair Programming
 - 🤔 I’m looking for help with Projects
 - 💬 Ask me about Anything
-- 📫 How to reach me: LinkedIn-Aryan Singh
+- 📫 How to reach me: [LinkedIn-Aryan Singh](https://www.linkedin.com/in/aryan-singh-a232471aa/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
