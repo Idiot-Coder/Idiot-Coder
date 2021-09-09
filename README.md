@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aryan-singh-a232471aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aryan singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aryan8840" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Aryan singh" height="30" width="40" /></a>
-<a href=" https://www.hackerrank.com/aryan705467" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Aryan singh" height="30" width="40" /></a>
-<a href=" https://leetcode.com/aryan8840/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aryan singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aryan705467" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Aryan singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/aryan8840/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aryan singh" height="30" width="40" /></a>
 </p>
 
 ---
@@ -46,6 +46,7 @@
 [<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>]
 [<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>][<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>]
 
+<br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Idiot-Coder&show_icons=true&locale=en&layout=compact" alt="Idiot-Coder" />
 <br/>
