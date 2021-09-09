@@ -50,13 +50,12 @@
 <br/>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Idiot-Coder&show_icons=true&locale=en&layout=compact" alt="Idiot-Coder" />
+<a href="https://github.com/Idiot-Coder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idiot-Coder&theme=light&hide_langs_below=1" />
+</a>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 ---
@@ -89,11 +88,23 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Idiot-Coder&show_icons=true&locale=en" alt="Idiot-Coder" /></p>
-          <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Idiot-Coder&" alt="Idiot-Coder" /></p>
+  <br/>
+  <a href="https://github.com/Idiot-Coder">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Idiot-Coder&show_icons=true&theme=light&line_height=27" alt="Idiot=Coder github stats"/>
+  </a>
+  <a href="https://github.com/Idiot-Coder">       
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Idiot-Coder&" alt="Idiot-Coder"/>
+  </a>  
  </details>
  
  ---
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 
 [blogs]: https://medium.com/@Aryan_singh
 [leetcode]: https://leetcode.com/aryan8840/
