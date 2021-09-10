@@ -1,9 +1,12 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 ### <h1 align="center"> Hi there, I'm Aryan! 👋</h1>
 
 <h2 align="center">I'm a Developer, a Blogger, and Competative Coder!!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Idiot-Coder&label=Profile%20views&color=0e75b6&style=flat" alt="Idiot-Coder" /> </p>
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I Frequently write technical blogs: [Check them Out][blogs]
 - 🌱 I’m currently learning everything 🤣
@@ -92,12 +95,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br/>
-  <a href="https://github.com/Idiot-Coder">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Idiot-Coder&show_icons=true&theme=light&line_height=27" alt="Idiot=Coder github stats"/>
-  </a>
-  <a href="https://github.com/Idiot-Coder">       
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Idiot-Coder&" alt="Idiot-Coder"/>
-  </a>  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Idiot-Coder&" alt="Idiot-Coder" width="45%"/>   
+  
+  <img  src="https://github-readme-stats.vercel.app/api?username=Idiot-Coder&show_icons=true&theme=light&line_height=25" width="45%" align="left" >
+
+     
  </details>
  
  ---
