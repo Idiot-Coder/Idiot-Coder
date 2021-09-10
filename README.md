@@ -75,11 +75,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Created new repo [Idiot-Coder/Gym-Management-System](https://github.com/Idiot-Coder/Gym-Management-System)
+1. 🗣 Created new repo [Idiot-Coder/Coding_Solutions](https://github.com/Idiot-Coder/Coding_Solutions)
 2. ❗️ Closed issue [#2]() in []()
-3. ❌ Closed PR [#11]() in []()
-4. 🗣 Commented on [#11]() in []()
-5. 🎉 Merged PR [#10](https://github.com/Idiot-Coder/Gym-Management-System/pull/10) in [Idiot-Coder/Gym-Management-System](https://github.com/Idiot-Coder/Gym-Management-System)
+3. 🗣 Created new repo [Idiot-Coder/Quiz_Game](https://github.com/Idiot-Coder/Quiz_Game) 
+4. ❌ Closed PR [#11]() in []()
+5. 🗣 Commented on [#11]() in []()
+6. 🗣 Created new repo [Idiot-Coder/Idiot-Coder](https://github.com/Idiot-Coder/Idiot-Coder)
+7. 🎉 Merged PR [#10](https://github.com/Idiot-Coder/Gym-Management-System/pull/10) in [Idiot-Coder/Gym-Management-System](https://github.com/Idiot-Coder/Gym-Management-System)
+8. 🗣 Created new repo [Idiot-Coder/Gym-Management-System](https://github.com/Idiot-Coder/Gym-Management-System)
 <!--END_SECTION:activity-->
 
 </details>
