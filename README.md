@@ -62,8 +62,8 @@
 
 
 ---
-
-### 📕 Latest Blog Posts
+<details>
+  <summary>:zap: 📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Interesting Things About Linked List](https://medium.com/@Aryan_singh/interesting-things-about-linked-list-1b6eae2657d)
@@ -71,6 +71,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@Aryan_singh)
+
+</details>
 
 ---
 
