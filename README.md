@@ -78,11 +78,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [Idiot-Coder/Coding_Solutions](https://github.com/Idiot-Coder/Coding_Solutions/tree/main/_Leetcode)
-2. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)  
-3. 🗣 Created new repo [Idiot-Coder/Coding_Solutions](https://github.com/Idiot-Coder/Coding_Solutions)
+1. ➕ Added new files [LeetCode/Majority Element.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Majority%20Element.cpp)
+2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
+3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
-5. 🗣 Created new repo [Idiot-Coder/Quiz_Game](https://github.com/Idiot-Coder/Quiz_Game) 
+5. 🗣 Created new repo [Idiot-Coder/Coding_Solutions](https://github.com/Idiot-Coder/Coding_Solutions) 
 6. ❌ Closed PR [#11]() in []()
 7. 🗣 Commented on [#11]() in []()
 8. 🗣 Created new repo [Idiot-Coder/Idiot-Coder](https://github.com/Idiot-Coder/Idiot-Coder)
