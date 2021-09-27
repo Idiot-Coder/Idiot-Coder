@@ -81,7 +81,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Implement Stack using Queues.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Implement%20Stack%20using%20Queues.cpp)
+1. ➕ Added new files [LeetCode/Convert Binary Number in a Linked List to Integer.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
