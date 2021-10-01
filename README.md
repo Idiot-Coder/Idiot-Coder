@@ -66,6 +66,7 @@
   <summary>:zap: 📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Dynamic Programming Solve All Problems?](- [Hacks on Bit-Wise Programming](https://medium.com/@Aryan_singh/hacks-on-bit-wise-programming-b77ebb5845bc))  
 - [Hacks on Bit-Wise Programming](https://medium.com/@Aryan_singh/hacks-on-bit-wise-programming-b77ebb5845bc)  
 - [Interesting Things About Linked List](https://medium.com/@Aryan_singh/interesting-things-about-linked-list-1b6eae2657d)
 - [How To Stay Motivated During Placement Preparation](https://medium.com/@Aryan_singh/how-to-stay-motivated-during-placement-preparation-27a8e071170c)
