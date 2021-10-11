@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Binary Search.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Binary%20Search.cpp)
+1. ➕ Added new files [LeetCode/Count Negative Numbers in a Sorted Matrix.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
