@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Product of Array Except Self.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Product%20of%20Array%20Except%20Self.cpp)
+1. ➕ Added new files [LeetCode/Longest Substring Without Repeating Characters.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Substring%20Without%20Repeating%20Characters.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
