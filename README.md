@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Subarrays with K Different Integers.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Subarrays%20with%20K%20Different%20Integers.cpp)
+1. ➕ Added new files [LeetCode/Minimum Remove to Make Valid Parentheses.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
