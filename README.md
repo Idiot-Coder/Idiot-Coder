@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Peak Index in a Mountain Array.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Peak%20Index%20in%20a%20Mountain%20Array.cpp)
+1. ➕ Added new files [LeetCode/Insert Delete GetRandom O(1).cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Insert%20Delete%20GetRandom%20O(1).cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
