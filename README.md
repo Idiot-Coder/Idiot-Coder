@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Reorder List.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Reorder%20List.cpp)
+1. ➕ Added new files [LeetCodeRemove Nth Node From End of List.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Nth%20Node%20From%20End%20of%20List.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
