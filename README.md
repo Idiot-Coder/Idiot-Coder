@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Flatten a Multilevel Doubly Linked List.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)
+1. ➕ Added new files [LeetCode/Partition List.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Partition%20List.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
