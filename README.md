@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Rotate List.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Rotate%20List.cpp)
+1. ➕ Added new files [LeetCode/Longest Palindromic Substring.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Palindromic%20Substring.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
