@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on My Personal Projects
 - 💬 Ask me about Anything
 - 📫 How to reach me: aryan705467@gmail.com
-- ⚡ Fun fact: I know WHY are you here
+- ⚡ Fun fact: I know WHY are you here.
 
 ---
 
