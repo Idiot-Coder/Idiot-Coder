@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Time Based Key-Value Store.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Time%20Based%20Key-Value%20Store.cpp)
+1. ➕ Added new files [LeetCode/Search in Rotated Sorted Array.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Search%20in%20Rotated%20Sorted%20Array.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
