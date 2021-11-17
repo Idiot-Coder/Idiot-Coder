@@ -83,7 +83,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Find First and Last Position of Element in Sorted Array.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
+1. ➕ Added new files [LeetCode/Find Peak Element.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20Peak%20Element.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
