@@ -66,6 +66,7 @@
   <summary>:zap: 📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Approach Recursive Solutions](https://medium.com/@Aryan_singh/how-to-approach-recursive-solutions-95aec1a93d3d)  
 - [Introduction to Merge Sort](https://medium.com/@Aryan_singh/merge-sort-6f314865901e)
 - [Can Dynamic Programming Solve All Problems?](https://medium.com/@Aryan_singh/can-dynamic-programming-solve-all-problems-dbb9f134c94b)  
 - [Hacks on Bit-Wise Programming](https://medium.com/@Aryan_singh/hacks-on-bit-wise-programming-b77ebb5845bc)  
