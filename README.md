@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Game of Life.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Game%20of%20Life.cpp)
+1. ➕ Added new files [LeetCode/Pairs of Songs With Total Durations Divisible by 60.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
