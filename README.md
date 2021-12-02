@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Find the Duplicate Number.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20the%20Duplicate%20Number.cpp)
+1. ➕ Added new files [LeetCode/Combination Sum.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Combination%20Sum.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
