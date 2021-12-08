@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Jump Game II.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Jump%20Game%20II.cpp)
+1. ➕ Added new files [LeetCode/Maximum Points You Can Obtain from Cards.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
