@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp)
+1. ➕ Added new files [LeetCode/Max Area of Island.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Max%20Area%20of%20Island.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
