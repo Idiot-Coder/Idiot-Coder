@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Subsets.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Subsets.cpp)
+1. ➕ Added new files [LeetCode/Invalid Transactions.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Invalid%20Transactions.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
