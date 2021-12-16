@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ➕ Added new files [LeetCode/Jump Game.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Jump%20Game.cpp)
+1. ➕ Added new files [LeetCode/Subarray Sums Divisible by K.cpp](https://github.com/Idiot-Coder/LeetCode/blob/main/Subarray%20Sums%20Divisible%20by%20K.cpp)
 2. 🗣 Created new repo [Idiot-Coder/LeetCode](https://github.com/Idiot-Coder/LeetCode)  
 3. 🗣 Created new repo [Idiot-Coder/Memory_Game](https://github.com/Idiot-Coder/Memory_Game)
 4. ❗️ Closed issue [#2]() in []()
